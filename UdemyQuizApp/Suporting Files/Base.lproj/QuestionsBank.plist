@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questions</key>
+	<array>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Gran Bretaña y Reino Unido son lo mismo</string>
+			<key>answer</key>
+			<false/>
+			<key>explanation</key>
+			<string>Gran Bretaña es una denominación puramente geográfica, ya que se trata solamente de la isla más grande de las islas británicas. El país es el Reino Unido, que es conformado por Ingalterra, Gales, Escocia e Irlanda del Norte.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>La superficie de Chile es mayor que la de Francia</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>La superficie de Chile es de 756 102,4 km², mientras que la de Francia es de 675 417 km².</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>La Universidad de Cambridge se fundó antes que el Machu Picchu</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>La Universidad de Cambridge se fundó en el año 1209, mientras que la ciudad inca de Machu Picchu se fundó en el año 1450.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>El cerebro es el órgano más pesado del cuerpo humano</string>
+			<key>answer</key>
+			<false/>
+			<key>explanation</key>
+			<string>El órgano más pesado del cuerpo humano es la piel. Su peso aproximado es de 5 kilogramos.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>La entomología es la ciencia que estudia el desarrollo de los organismos unicelulares</string>
+			<key>answer</key>
+			<false/>
+			<key>explanation</key>
+			<string>La entomología es el estudio científico de los insectos.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>La phobofobia es la fobia a la filosofía</string>
+			<key>answer</key>
+			<false/>
+			<key>explanation</key>
+			<string>La phobofobia se define como la fobia a las fobias.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Más del 50 % de la mortalidad infantil se debe al problema del hambre mundial.</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>Se estima que uno de cada cuatro niños en el mundo sufre de desnutrición crónica, y uno de cada diez sufre de desnutrición aguda.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Los animales de la especie Homo sapiens son plantígrados.</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>Un plantígrado es todo animal que apoya completamente la planta de las extremidades inferiores para andar. Se utiliza fundamentalmente para mamíferos, como los osos o los humanos, entre otros.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>La longitud del Río Nilo es de 6650 kilómetros.</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>El Río Nilo, con 6650 kilómetros de largo, es el río más largo del mundo, seguido por el Amazonas, con 6400.</string>
+		</dict>
+		<dict>
+			<key>pedro</key>
+			<string>A</string>
+			<key>question</key>
+			<string>Cerca de un 20 % de la población mundial es musulmana.</string>
+			<key>answer</key>
+			<true/>
+			<key>explanation</key>
+			<string>El islam es la segunda religión del mundo después del cristianismo, que representa a algo más del 30 % de la población mundial.</string>
+		</dict>
+	</array>
+</dict>
+</plist>
